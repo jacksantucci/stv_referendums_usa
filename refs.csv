@@ -1,0 +1,60 @@
+census.place	fips.state	icpsr.county.code	icpsr.state.code	city	state	lat	long	ref.date	gov.year	gov.year.lag	for	against	for.pct	first.elec.date	last.elec.date	repeal.date	first.elect.not.pr.date	replace.rules	resulted.pr	had.pr	used.in.pd	adopt.ref.in.pd	pr.note	notes
+	41	10	66	Marshfield-North Bend	OR	43.3764	-124.2372	1943-11-02	1942	1938	972	1237	0.4400181077						No	0	0	0		as part of proposed merger
+	41	10	66	Marshfield	OR	43.3764	-124.2372	1943-11-02	1942	1938	775	146	0.8414766558						No	0	0	0		BUT DID NOT ADOPT... SAME AS ABOVE
+720	41	290	66	Medford	OR	42.3319	-122.8619	1915-01?	1914	1910			NA						No	0	0	0		
+1630	6	370	71	Los Angeles	CA	34.05	-118.25	1913-03-24	1910	1906	17446	18704	0.4826002766						No	0	0	0		“party system of PR”
+1630	6	370	71	Los Angeles	CA	34.05	-118.25	1922-11-07	1922	1918	32263	59725	0.3507305301						No	0	0	0		but unconstitutional anyway
+2585	27	530	33	Minneapolis	MN	44.9833	-93.2667	1926-06-21	1924	1922	27973	59472	0.3198925039						No	0	0	0		
+	27	370	33	Hastings	MN	44.7333	-92.85	1948-11-02	1948	1946	1219	1227	0.498364677						No	0	0	1		MN constitution require 60 percent for charter adoptions (after the Hopkins adoption?)
+3875	29	5100	34	Saint Louis	MO	38.6272	-90.1978	1916-02?	1912	1908			NA						No	0	0	0		“list system”
+2720	55	10	25	West Allis	WI	43.0081	-88.0183	1926-04-06	1924	1922	985	3262	0.2319284201						No	0	0	0		
+920	26	490	23	Flint	MI	43.01	-83.69	1919-11-04	1918	1916			NA						No	0	0	0		
+4265	39	950	24	Toledo	OH	41.6656	-83.5753	1928-11-06	1928	1926	36445	59232	0.3809170438						No	0	0	0		
+4860	39	1190	24	Zanesville	OH	39.9461	-82.0122	1929-08-27	1928	1926	2175	7016	0.2366445436						No	0	0	0		
+	39	310	24	Coshocton	OH	40.2678	-81.8567	1919-03-25	1918	1916			NA						No	0	0	0		defeated by 35 votes
+705	39	1510	24	Canton	OH	40.805	-81.3758	1921-06-01	1920	1918			NA						No	0	0	0		
+	36	90	13	Olean	NY	42.0825	-78.4308	1956-11-06	1954	1950	2710	5443	0.3323929842						No	0	0	1		
+	36	270	13	Beacon	NY	41.5042	-73.9656	1948-11-02	1946	1932	1581	2583	0.3796829971						No	0	0	1		
+3285	36	930	13	Schenectady	NY	42.8	-73.9333	1938-11-08	1938	1936	10249	13591	0.4299077181						No	0	0	0		
+3285	36	930	13	Schenectady	NY	42.8	-73.9333	1939-11?	1938	1936	9965	14059	0.4147935398						No	0	0	0		Dem minority favor, GOP machine oppose. Add-on to manager plan
+4075	36	1190	13	Yonkers	NY	40.9414	-73.8644	1937-11-02	1936	1934	17639	19312	0.4773619117						No	0	0	0		
+2495	36	1190	13	New Rochelle	NY	40.9286	-73.7842	1939-11?	1938	1936	4125	9644	0.2995860266						No	0	0	0		Dem minority favor, GOP machine oppose. dd-on to manager plan?
+3970	36	1190	13	White Plains	NY	41.04	-73.7786	1939-11?	1938	1936	3363	6278	0.3488227362						No	0	0	0		Dem minority favor, GOP machine oppose
+3370	25	30	3	Pittsfield	MA	42.45	-73.25	1947-11-04	1946	1944	4229	7176	0.3708022797						No	0	0	1		
+	25	30	3	North Adams	MA	42.7	-73.1167	1940-11-05	1940	1938	2807	5538	0.3363690833						No	0	0	0		
+2460	9	90	1	Waterbury	CT	41.5561	-73.0414	1939-10-03	1938	1936	10513	14726	0.4165378977						No	0	0	0		Dem minority favor, GOP machine oppose
+2865	25	150	3	Northampton	MA	42.3333	-72.65	1938-11-08	1938	1936	3499	4733	0.4250485909						No	0	0	0		
+760	25	130	3	Chicopee	MA	42.1486	-72.6083	1940-11-05	1940	1938	6793	7985	0.4596697794						No	0	0	0		
+1280	25	270	3	Fitchburg	MA	42.5833	-71.8028	1947-11-04	1946	1944	5715	9476	0.3762095978						No	0	0	1		
+610	25	170	3	Cambridge	MA	42.3736	-71.1106	1938-11-08	1938	1936	19955	21722	0.4788012573						No	1	1	0		
+3920	25	170	3	Somerville	MA	42.3875	-71.1	1949-11-08	1948	1946	33587	4823	0.8744337412			1951-06-01			No	0	0	1		use will depend on glitch in 1949 statewide Plan E repeal (aug. 9 1949 replacement of PR with plurality in plan E) http://www.ecases.us/case/mass/1997834/mayor-of-gloucester-v-city-clerk-of-gloucester
+700	25	250	3	Chelsea	MA	42.3917	-71.0333						NA						No	0	0	1		
+	25	90	3	Saugus	MA	42.4647	-71.0106	1947-03?	1946	1944	3560	210	0.9442970822						No	0	0	1		but blocked on technicality
+3460	25	210	3	Quincy	MA	42.25	-71	1938-11-08	1938	1936	11598	17029	0.4051419988						No	0	0	0		
+3460	25	210	3	Quincy	MA	42.25	-71	1940-11-05	1940	1938	11039	19401	0.3626478318						No	0	0	0		
+390	25	90	3	Beverly	MA	42.558	-70.88	1948-12-14	1948	1946			NA						No	0	0	1		defeat
+1430	25	90	3	Gloucester	MA	42.6158	-70.6625	1949-12-06	1948	1946	5452	2307	0.7026678696			1951-06-01			No	0	0	1		use will depend on glitch in 1949 statewide Plan E repeal (aug. 9 1949 replacement of PR with plurality in plan E) http://www.ecases.us/case/mass/1997834/mayor-of-gloucester-v-city-clerk-of-gloucester
+	41	10	66	Marshfield	OR	43.3764	-124.2372	1944-11-07	1942	1938	976	873	0.5278528935	1946-11-05		1948-09-21			Yes	1	1	1		and renames self to Coos Bay
+2420	6	670	71	Sacramento	CA	38.5556	-121.4689	1920-11-30	1918	1914	7962	1587	0.8338045869	1921-05-03		1922			Yes	1	0	0		
+110	8	130	62	Boulder	CO	40.0274	-105.2519	1917-11?	1916	1914			0.8	1917-12?		1947-11-04	1949-11-08	9X	Yes	1	1	0	stagger	See W. O. Winter. And first non-pr election http://colocode.com/boulderpdf/boulderpdfs/charter.pdf
+	27	530	33	Hopkins	MN	44.9308	-93.4017	1947-12-02	1946	1944	1148	555	0.6741045214	1948-05-18		1959-05-19			Yes	1	1	1		
+1370	26	770	23	Kalamazoo	MI	42.29	-85.5858	1918-02-04	1916	1914	2403	659	0.7847811888	1918-04-01		1920			Yes	1	0	0		
+1705	39	170	24	Hamilton	OH	39.3958	-84.565	1926-11-02	1926	1924	5555	5377	0.5081412367	1926?		1961	1961-11-07	7X	Yes	1	1	0		
+865	39	610	24	Cincinnati	OH	39.1	-84.5167	1924-11-04	1924	1922	92510	41105	0.6923623845	1925-11-03	1955-11-08	1957-09-30	1957-11-05	9X	Yes	1	1	0		
+1080	47	110	54	Oak Ridge	TN	36.0133	-84.2625	1948-07?	1946	1944			NA	1949-09-13		1959-05-06	?		Yes	1	1	1		
+	47	10	54	Norris	TN	36.1994	-84.0692	1936-12-09	1936	1934	267	28	0.9050847458	1937-01-29		1948-06-15			Yes	1	1	0		sold by Congress
+4265	39	950	24	Toledo	OH	41.6656	-83.5753	1934-11-06	1934	1932	33263	28125	0.5418485698	1936?	1949-11-08	1949-11-08	1951-11-06	9X	Yes	1	1	0		move to two-round at-large
+900	39	350	24	Cleveland	OH	41.4822	-81.6697	1921-11-08	1920	1918	77888	58204	0.5723187256	1923-11?		1931-11-03			Yes	1	0	0		
+	39	70	24	Ashtabula	OH	41.8772	-80.7969	1915-08-10	1914	1912	592.8		0.6	1915-11-02		1929			Yes	1	0	0		Add-on to CM
+1690	54	690	56	Wheeling	WV	40.0703	-80.6986	1935-04-18	1932	1928	8789	7339	0.544952877	1935-06-04		1950-11-07	?	9X?	Yes	1	1	0		n.p. Primary April 2 1951 to pick 2 from each ward
+2505	36	610	13	New York City	NY	40.67	-73.94	1936-11-03	1936	1934	923186	555217	0.6244481376	1937-11-02	1947-11-04	1947-11-04	1949-11-08	SMD	Yes	1	1	0		separate ballot line from actual charter
+4075	36	1190	13	Yonkers	NY	40.9414	-73.8644	1938-11-08	1938	1936	24072	21160	0.5321896003	1940?	1947-11-04	1948-11-02	1949-11-08	12SMD	Yes	1	1	0		first non-pr election https://books.google.com/books?id=TU6v9c-x7AAC&pg=PA309&lpg=PA309&dq=yonkers+election+1949&source=bl&ots=HVnMhFhjqZ&sig=AwaeceTGvZDM0n11Bf9e9F-wRd8&hl=en&sa=X&ei=Ksy1VN3vCYHOgwTnqoOwDw&ved=0CEQQ6AEwBg#v=onepage&q=yonkers%20election%201949&f=false
+2035	36	590	13	Long Beach	NY	40.586	-73.6678	1943-11-02	1942	1938	1575	1378	0.5333559092	1945-11-06	1947-11-04	1947-11-04	1949-11-08		Yes	1	1	0		first non-pr election http://fultonhistory.com/Newspapers%2023/Freeport%20NY%20Daily%20Review/Freeport%20NY%20Daily%20Review%201949%20Nov/Freeport%20NY%20Daily%20Review%201949%20Nov%20-%200239.pdf
+2500	9	30	1	West Hartford	CT	41.7678	-72.7539	1920-11?	1920	1918			NA	1921-04-05		1923			Yes	1	0	0	districted	
+5030	25	270	3	Worcester	MA	42.2667	-71.8	1947-11-04	1946	1944	42179	22154	0.6556355214	1949-11-08?		1960-11-08	1961-11-07	9X	Yes	1	1	1		
+2180	25	170	3	Lowell	MA	42.6394	-71.3147	1942-11-03	1942	1940	16477	14135	0.5382529727	1943-11-02	1957-11-07	1957-11-07	1959-11-03	9X	Yes	1	1	0		1955 referendum invalid, first non-pr election http://www.lowellsun.com/opinion/ci_13483554
+610	25	170	3	Cambridge	MA	42.3736	-71.1106	1940-11-05	1940	1938	25875	18323	0.58543373	1941-11-04		none	2015-01-01		Yes	1	1	0		
+2400	25	170	3	Medford	MA	42.4183	-71.1067	1947-11-04	1946	1944	15830	4467	0.7799182145	1949?		1952-11-04	1953-11-03	7X	Yes	1	1	1		
+3510	25	250	3	Revere	MA	42.4083	-71.0125	1947-11-04	1946	1944	13931	2059	0.87123202	1949?	1955-11-08	1955-11-08	1957-11-05	to plan B in 1964	Yes	1	1	1		1952 repeal invalid under 1953 ruling; 1955 repeal referendum coincides with PR election
+	25	90	3	Saugus	MA	42.4647	-71.0106	1947-06-02	1946	1944	3252	816	0.7994100295	1948-01-19		1951-10-08			Yes	1	1	1		
+3460	25	210	3	Quincy	MA	42.25	-71	1947-11-04	1946	1944	17187	7745	0.6893550457	1949-11-08?		1952-11-04	1953-11-03	Mayor, ?	Yes	1	1	1		
